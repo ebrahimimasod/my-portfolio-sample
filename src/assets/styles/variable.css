@@ -1,0 +1,7 @@
+:root{
+    --base-color:#ffffff;
+    --theme-color: rgba(117, 78, 249, 1);
+    --theme-color-75: rgba(117, 78, 249, 0.75);
+    --theme-color-50: rgba(117, 78, 249, 0.50);
+    --theme-color-25: rgba(117, 78, 249, 0.25);
+}
