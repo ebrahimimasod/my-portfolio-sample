@@ -1,5 +1,5 @@
 # my-portfolio-sample
-![alt text](https://github.com/ebrahimimasod/my-portfolio-sample/blob/master/screenshot.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/ebrahimimasod/my-portfolio-sample/main/screenshot.jpg)
 
 ## Project setup
 ```
