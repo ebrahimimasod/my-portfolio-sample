@@ -1,4 +1,4 @@
-# my-portfolio-sample
+# portfolio sample
 ![alt text](https://raw.githubusercontent.com/ebrahimimasod/my-portfolio-sample/main/screenshot.jpg)
 
 ## Project setup
