@@ -1,4 +1,4 @@
-# portfolio sample
+# portfolio sample by Vue.js
 ![alt text](https://raw.githubusercontent.com/ebrahimimasod/my-portfolio-sample/main/screenshot.jpg)
 
 ## Project setup
